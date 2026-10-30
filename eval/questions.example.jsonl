@@ -1,0 +1,3 @@
+{"id": "q001", "question": "Quel article du Code civil pose le principe de la responsabilité pour faute ?", "expected_source": "code_civil_livre6.pdf", "expected_article": "6.5", "reference_answer": "Exemple à remplacer par la vraie réponse tirée de ton corpus.", "answerable": true}
+{"id": "q002", "question": "Quel est le délai pour introduire un recours contre une décision de délibération ?", "expected_source": "reglement_etudes.pdf", "expected_article": null, "reference_answer": "Exemple à remplacer.", "answerable": true}
+{"id": "q003", "question": "Quel est le prix d'un ticket de métro à Bruxelles ?", "expected_source": null, "expected_article": null, "reference_answer": null, "answerable": false}
