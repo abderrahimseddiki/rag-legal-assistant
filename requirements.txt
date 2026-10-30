@@ -1,0 +1,14 @@
+langchain-core>=0.3
+langchain-text-splitters>=0.3
+langchain-openai>=0.2
+langchain-mistralai>=0.2
+langchain-chroma>=0.1
+langchain-huggingface>=0.1
+sentence-transformers>=3.0
+chromadb>=0.5
+pypdf>=4.0
+beautifulsoup4>=4.12
+fastapi>=0.110
+uvicorn[standard]>=0.29
+pydantic-settings>=2.2
+python-dotenv>=1.0
